@@ -1,7 +1,7 @@
-ion-title{
+ion-toolbar{
     color: darkcyan;
     background-color: lightgrey;
-    position: absolute;
+    text-align: center;
 }
 
 
@@ -19,4 +19,8 @@ ion-title{
     ion-card-title{
         color: darkcyan;
     }
+    h1{
+        text-align: center;
+    }
 }
+
